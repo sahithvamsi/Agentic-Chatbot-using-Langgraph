@@ -2,7 +2,7 @@
 
 ### Description: About the deployment
 
-	1. Build docker image of the source code
+	1. Build docker image of the source codepart
 
 	2. Push your docker image to docker hub
 
