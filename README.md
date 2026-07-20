@@ -6,8 +6,8 @@
 
 	2. Push your docker image to docker hub
 
-	3. Launch Your EC2 
-
+	3. Launch Your ec2
+     
 	4. Pull Your image from docker hub in EC2
 
 	5. Lauch your docker image in EC2
